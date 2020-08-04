@@ -1,2 +1,2 @@
 # Clubeando_ando
-Página para el Clubes de Ciencia Mx
+Página para Clubes de Ciencia Mx
